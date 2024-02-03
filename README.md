@@ -1,5 +1,5 @@
-# Azure Sentinel
-<h1> SIEM - Azure Sentinel - Live Attacks Home Lab</h1>
+# Azure Sentinel SIEM - Live Attacks Home Lab
+
 <p align="center">
 <img src="https://i.imgur.com/NRfvbrz.png" alt="Azure Sentinel Logo"/>
 </p>
